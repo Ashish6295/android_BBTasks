@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:divider="@drawable/custom_seprator_for_listview">
+
+    <TextView
+        android:id="@+id/custom_newsList_textView_read_status"
+        android:layout_width="12.5dp"
+        android:layout_height="12.5dp"
+
+        android:layout_marginTop="62dp"
+        android:layout_marginBottom="60dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginEnd="5dp"
+
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+
+        android:background="@drawable/rounded_textview_read_status_unread"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/custom_newsList_textView_News_header"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@id/custom_newsList_textView_read_status"
+        android:layout_toEndOf="@id/custom_newsList_textView_read_status"
+
+        android:layout_marginTop="10dp"
+
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+
+        android:text="@string/customNewsList_news_header"
+        android:textStyle="bold"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/custom_newsList_textView_News_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@id/custom_newsList_textView_read_status"
+        android:layout_toEndOf="@id/custom_newsList_textView_read_status"
+
+        android:layout_below="@id/custom_newsList_textView_News_header"
+
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+
+        android:textStyle="bold"
+        android:text="@string/custom_newsList_news_date"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/custom_newsList_textView_News_preview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_toRightOf="@id/custom_newsList_textView_read_status"
+        android:layout_toEndOf="@id/custom_newsList_textView_read_status"
+        android:layout_below="@id/custom_newsList_textView_News_date"
+        android:layout_marginBottom="10dp"
+
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:text="@string/customNewsList_news_preview"
+        android:textSize="18sp"/>
+
+    <!--<android.support.v7.widget.AppCompatButton-->
+        <!--android:id="@+id/Button_DeleteItem_NewsList"-->
+        <!--android:layout_below="@id/custom_newsList_textView_News_preview"-->
+        <!--android:layout_marginBottom="12dp"-->
+        <!--android:layout_marginLeft="10dp"-->
+        <!--android:layout_marginRight="10dp"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="@string/Button_delete_list_item"-->
+        <!--android:background="#5391b6"-->
+        <!--android:textSize="14sp"-->
+        <!--android:textColor="#ffffff"/>-->
+
+</RelativeLayout>
+
+
+
+

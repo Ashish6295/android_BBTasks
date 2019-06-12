@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#e43f3f"
+    android:fitsSystemWindows="true">
+
+<RelativeLayout
+    android:id="@+id/mainActivityLayout"
+    android:background="#e43f3f"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="15dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:id="@+id/textView_Logo"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="cursive"
+        android:text="@string/textview_Logo"
+        android:textAlignment="center"
+        android:textColor="#ffffff"
+        android:textSize="72sp"
+        android:textStyle="italic" />
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textInputLayout_Name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView_Logo"
+        android:theme="@style/TextLabel"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/editText_Name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:inputType="textCapWords"
+            android:hint="@string/name" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textInputLayout_eMail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textInputLayout_Name"
+        android:theme="@style/TextLabel"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/editText_eMail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:inputType="textEmailAddress"
+            android:hint="@string/email" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/textInputLayout_Password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textInputLayout_eMail"
+        android:theme="@style/TextLabel"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp">
+
+        <android.support.design.widget.TextInputEditText
+            android:id="@+id/editText_Password"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/pass"
+            android:inputType="textPassword"
+            android:textColor="#ffffff" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/Button_CreateAccount"
+        android:layout_below="@id/textInputLayout_Password"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/createaccount"
+        android:background="#cc1d1d"
+        android:textSize="18sp"
+        android:textColor="#ffffff"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/Button_CreateAccount">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/SkipToButtonsLayout">
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/Button_SkipToListView"
+
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:layout_marginEnd="10dp"
+
+                android:layout_marginRight="10dp"
+                android:layout_marginBottom="12dp"
+                android:layout_weight="0.5"
+
+                android:background="#cc1d1d"
+                android:text="@string/skip_to_listview"
+
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/Button_SkipToNewsList"
+
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="12dp"
+
+                android:layout_marginBottom="12dp"
+                android:layout_weight="0.5"
+
+                android:background="#cc1d1d"
+                android:text="@string/skip_to_newslist"
+
+                android:textColor="#ffffff"
+                android:textSize="14sp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+
+</ScrollView>
+
+<!--<android.support.v7.widget.AppCompatButton-->
+<!--android:id="@+id/Button_SkipToListView"-->
+<!--android:layout_below="@id/Button_CreateAccount"-->
+
+<!--android:layout_marginTop="12dp"-->
+<!--android:layout_marginBottom="12dp"-->
+<!--android:layout_marginRight="10dp"-->
+<!--android:layout_marginEnd="10dp"-->
+
+<!--android:layout_width="0dp"-->
+<!--android:layout_height="wrap_content"-->
+
+<!--android:text="@string/createaccount"-->
+<!--android:background="#cc1d1d"-->
+
+<!--android:textSize="18sp"-->
+<!--android:textColor="#ffffff"/>-->
+
+<!--<android.support.v7.widget.AppCompatButton-->
+<!--android:id="@+id/Button_SkipToNewsList"-->
+
+<!--android:layout_below="@id/Button_CreateAccount"-->
+<!--android:layout_toRightOf="@id/Button_SkipToListView"-->
+<!--android:layout_toEndOf="@id/Button_SkipToListView"-->
+
+<!--android:layout_marginTop="12dp"-->
+<!--android:layout_marginBottom="12dp"-->
+<!--android:layout_marginLeft="10dp"-->
+<!--android:layout_marginRight="10dp"-->
+
+<!--android:layout_width="0dp"-->
+<!--android:layout_height="wrap_content"-->
+
+<!--android:text="@string/createaccount"-->
+<!--android:background="#cc1d1d"-->
+
+<!--android:textSize="18sp"-->
+<!--android:textColor="#ffffff"/>-->

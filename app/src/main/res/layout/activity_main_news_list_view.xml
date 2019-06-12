@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity_news_listView">
+
+    <TextView
+        android:id="@+id/newsList_textView_Logo"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingTop="15dp"
+        android:paddingRight="15dp"
+        android:fontFamily="sans-serif"
+        android:text="@string/newsList_TextView_Logo"
+        android:textAlignment="center"
+        android:textColor="#5391b6"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/newsList_textView_Logo"
+        android:layout_centerHorizontal="true"
+        android:background="#000000" />
+
+    <ListView
+        android:id="@+id/MyNewsListView"
+        android:layout_below="@id/newsList_textView_Logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp">
+    </ListView>
+
+</RelativeLayout>

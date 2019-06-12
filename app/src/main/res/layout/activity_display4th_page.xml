@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#673ab7"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/pagefour_displayActivityLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#673ab7"
+        android:paddingTop="15dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        tools:context=".Display4thPageActivity">
+
+        <TextView
+            android:id="@+id/pagefour_textView_Logo"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:fontFamily="cursive"
+            android:text="@string/page4Logo"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:textSize="55sp"
+            android:textStyle="italic" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pagefour_textView_Logo"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_id"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_ID"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pagefour_textView_Logo"
+            android:layout_toRightOf="@id/pageFour_TextView_Toc_ID"
+            android:layout_toEndOf="@id/pageFour_TextView_Toc_ID"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_ID"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_ID"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_numtree"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_numTree"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_ID"
+            android:layout_toRightOf="@id/pageFour_TextView_Toc_numTree"
+            android:layout_toEndOf="@id/pageFour_TextView_Toc_numTree"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_NumTree"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_numTree"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_nametree"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_nameTree"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_nameTree"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_NameTree"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_NameTree"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_tocnametree"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_tocNameTree"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_tocNameTree"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_TocNameTree"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_TocNameTree"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_htmlpage"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_htmlPage"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_TocNameTree"
+            android:layout_toRightOf="@id/pageFour_TextView_Toc_htmlPage"
+            android:layout_toEndOf="@id/pageFour_TextView_Toc_htmlPage"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_HtmlPage"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_htmlPage"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_haspdf"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_hasPDF"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_HtmlPage"
+            android:layout_toRightOf="@id/pageFour_TextView_Toc_hasPDF"
+            android:layout_toEndOf="@id/pageFour_TextView_Toc_hasPDF"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_hasPDF"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Toc_hasPDF"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginEnd="5dp"
+            android:text="@string/page4_TextView_toc_emailcontent"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Toc_emailContent"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pageFour_TextView_Display_Toc_hasPDF"
+            android:layout_toRightOf="@id/pageFour_TextView_Toc_emailContent"
+            android:layout_toEndOf="@id/pageFour_TextView_Toc_emailContent"
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="12dp"
+
+            android:text=""
+            android:textColor="#ffffff"
+            android:id="@+id/pageFour_TextView_Display_Toc_emailContent"/>
+
+    </RelativeLayout>
+</ScrollView>

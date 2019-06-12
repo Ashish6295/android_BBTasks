@@ -1,0 +1,1805 @@
+{
+"data":
+[
+{
+"numtree":"1.0.0.0",
+"id":"1",
+"nametree":"Definition, Klassifikation und Symptomatik",
+"tocnametree":"Definition, Klassifikation und Symptomatik",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"1.1.0.0",
+"id":"2",
+"nametree":"Definition",
+"tocnametree":"Definition",
+"htmlpage":"DEPH576_1.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"1.2.0.0",
+"id":"3",
+"nametree":"Klassifikation",
+"tocnametree":"Klassifikation",
+"htmlpage":"DEPH576_1.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"1.3.0.0",
+"id":"4",
+"nametree":"Symptomatik",
+"tocnametree":"Symptomatik",
+"htmlpage":"DEPH576_1.3.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.0.0.0",
+"id":"5",
+"nametree":"Diagnostik",
+"tocnametree":"Diagnostik",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.1.0.0",
+"id":"6",
+"nametree":"Glukosemessungen",
+"tocnametree":"Glukosemessungen",
+"htmlpage":"DEPH576_2.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.2.0.0",
+"id":"7",
+"nametree":"Screening",
+"tocnametree":"Screening",
+"htmlpage":"DEPH576_2.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.3.0.0",
+"id":"8",
+"nametree":"Diagnosekriterien",
+"tocnametree":"Diagnosekriterien",
+"htmlpage":"DEPH576_2.3.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.4.0.0",
+"id":"9",
+"nametree":"Sicherung der Diagnose",
+"tocnametree":"Sicherung der Diagnose",
+"htmlpage":"DEPH576_2.4.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.5.0.0",
+"id":"10",
+"nametree":"Laborwerte bei DM",
+"tocnametree":"Laborwerte bei DM",
+"htmlpage":"DEPH576_2.5.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"2.6.0.0",
+"id":"11",
+"nametree":"Glukosetoleranztest (75g)",
+"tocnametree":"Glukosetoleranztest (75g)",
+"htmlpage":"DEPH576_2.6.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.0.0.0",
+"id":"12",
+"nametree":"Akute Komplikationen des Diabetes",
+"tocnametree":"Akute Komplikationen des Diabetes",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.1.0.0",
+"id":"13",
+"nametree":"Überblick der Komplikationen",
+"tocnametree":"Überblick der Komplikationen",
+"htmlpage":"DEPH576_3.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.2.0.0",
+"id":"14",
+"nametree":"Hypoglykämie",
+"tocnametree":"Hypoglykämie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.2.1.0",
+"id":"15",
+"nametree":"Definition, Ursachen, Symptome",
+"tocnametree":"Definition, Ursachen, Symptome",
+"htmlpage":"DEPH576_3.2.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.2.2.0",
+"id":"16",
+"nametree":"Hypoglykämie-Wahrnehmungsstörung",
+"tocnametree":"Hypoglykämie-Wahrnehmungsstörung",
+"htmlpage":"DEPH576_3.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.2.3.0",
+"id":"17",
+"nametree":"Therapie der akuten Hypoglykämie",
+"tocnametree":"Therapie der akuten Hypoglykämie",
+"htmlpage":"DEPH576_3.2.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.2.4.0",
+"id":"18",
+"nametree":"Schwere Hypoglykämien",
+"tocnametree":"Schwere Hypoglykämien",
+"htmlpage":"DEPH576_3.2.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.3.0.0",
+"id":"19",
+"nametree":"Ketoazidose",
+"tocnametree":"Ketoazidose",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.3.1.0",
+"id":"20",
+"nametree":"Symptome der Ketoazidose",
+"tocnametree":"Symptome der Ketoazidose",
+"htmlpage":"DEPH576_3.3.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.3.2.0",
+"id":"21",
+"nametree":"Therapie der Ketoazidose",
+"tocnametree":"Therapie der Ketoazidose",
+"htmlpage":"DEPH576_3.3.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.4.0.0",
+"id":"22",
+"nametree":"Hyperglykämisches/ hyperosmolares Koma",
+"tocnametree":"Hyperglykämisches/ hyperosmolares Koma",
+"htmlpage":"DEPH576_3.4.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"3.5.0.0",
+"id":"23",
+"nametree":"Laktatazidose",
+"tocnametree":"Laktatazidose",
+"htmlpage":"DEPH576_3.5.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.0.0.0",
+"id":"24",
+"nametree":"Chron. Komplikationen des Diabetes",
+"tocnametree":"Chron. Komplikationen des Diabetes",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.1.0.0",
+"id":"25",
+"nametree":"Diagnostischer Überblick",
+"tocnametree":"Diagnostischer Überblick",
+"htmlpage":"DEPH576_4.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.0.0",
+"id":"26",
+"nametree":"Makroangiopathie",
+"tocnametree":"Makroangiopathie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.1.0",
+"id":"27",
+"nametree":"KHK und akutes Koronarsyndrom",
+"tocnametree":"KHK und akutes Koronarsyndrom",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.1.1",
+"id":"28",
+"nametree":"Kard. Diagnostik bei folgenden Kriterien",
+"tocnametree":"Kard. Diagnostik bei folgenden Kriterien",
+"htmlpage":"DEPH576_4.2.1.1",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.1.2",
+"id":"29",
+"nametree":"Diagnostik asymptom. Patient",
+"tocnametree":"Diagnostik asymptom. Patient",
+"htmlpage":"DEPH576_4.2.1.2",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.1.3",
+"id":"30",
+"nametree":"Diagnostik symptomat. Patient",
+"tocnametree":"Diagnostik symptomat. Patient",
+"htmlpage":"DEPH576_4.2.1.3",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.2.0",
+"id":"31",
+"nametree":"Periphere arterielle Verschlusskrankheit",
+"tocnametree":"Periphere arterielle Verschlusskrankheit",
+"htmlpage":"DEPH576_4.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.3.0",
+"id":"32",
+"nametree":"Carotisstenose und Bauchaorta",
+"tocnametree":"Carotisstenose und Bauchaorta",
+"htmlpage":"DEPH576_4.2.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.2.4.0",
+"id":"33",
+"nametree":"Therapeutischer Überblick",
+"tocnametree":"Therapeutischer Überblick",
+"htmlpage":"DEPH576_4.2.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.0.0",
+"id":"34",
+"nametree":"Diabetische Neuropathie",
+"tocnametree":"Diabetische Neuropathie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.1.0",
+"id":"35",
+"nametree":"Sensomotorische PNP",
+"tocnametree":"Sensomotorische PNP",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.1.1",
+"id":"36",
+"nametree":"Minus-Symptomatik",
+"tocnametree":"Minus-Symptomatik",
+"htmlpage":"DEPH576_4.3.1.1",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.1.2",
+"id":"37",
+"nametree":"Plus-Symptomatik/DD´s und Kontrollen",
+"tocnametree":"Plus-Symptomatik/DD´s und Kontrollen",
+"htmlpage":"DEPH576_4.3.1.2",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.1.3",
+"id":"38",
+"nametree":"Schweregradeinteilung der Neuropathie",
+"tocnametree":"Schweregradeinteilung der Neuropathie",
+"htmlpage":"DEPH576_4.3.1.3",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.1.4",
+"id":"39",
+"nametree":"Therapie der sensomot. PNP",
+"tocnametree":"Therapie der sensomot. PNP",
+"htmlpage":"DEPH576_4.3.1.4",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.2.0",
+"id":"40",
+"nametree":"Autonome PNP",
+"tocnametree":"Autonome PNP",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.2.1",
+"id":"41",
+"nametree":"Klinik und Beurteilung",
+"tocnametree":"Klinik und Beurteilung",
+"htmlpage":"DEPH576_4.3.2.1",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.2.2",
+"id":"42",
+"nametree":"Organmanifestationen",
+"tocnametree":"Organmanifestationen",
+"htmlpage":"DEPH576_4.3.2.2",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.3.2.3",
+"id":"43",
+"nametree":"Therapie b. Störg. d. gastrointest. Systems",
+"tocnametree":"Therapie b. Störg. d. gastrointest. Systems",
+"htmlpage":"DEPH576_4.3.2.3",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.0.0",
+"id":"44",
+"nametree":"Diabetisches Fußsyndrom",
+"tocnametree":"Diabetisches Fußsyndrom",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.1.0",
+"id":"45",
+"nametree":"Definition und Pathogenese",
+"tocnametree":"Definition und Pathogenese",
+"htmlpage":"DEPH576_4.4.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.2.0",
+"id":"46",
+"nametree":"Klinische Differentialdiagnosen",
+"tocnametree":"Klinische Differentialdiagnosen",
+"htmlpage":"DEPH576_4.4.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.3.0",
+"id":"47",
+"nametree":"Risikofaktoren für ein Fußulkus",
+"tocnametree":"Risikofaktoren für ein Fußulkus",
+"htmlpage":"DEPH576_4.4.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.4.0",
+"id":"48",
+"nametree":"Diagnostik",
+"tocnametree":"Diagnostik",
+"htmlpage":"DEPH576_4.4.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.5.0",
+"id":"49",
+"nametree":"Fußulzera: Dokumentation/Klassifik.",
+"tocnametree":"Fußulzera: Dokumentation/Klassifik.",
+"htmlpage":"DEPH576_4.4.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.6.0",
+"id":"50",
+"nametree":"Sonderform: DNOAP",
+"tocnametree":"Sonderform: DNOAP",
+"htmlpage":"DEPH576_4.4.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.7.0",
+"id":"51",
+"nametree":"Prävention von Fußulzera",
+"tocnametree":"Prävention von Fußulzera",
+"htmlpage":"DEPH576_4.4.7.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.8.0",
+"id":"52",
+"nametree":"Therapien bei Infektionen, Ulzera, Druckstellen",
+"tocnametree":"Therapien bei Infektionen, Ulzera, Druckstellen",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.8.1",
+"id":"53",
+"nametree":"Grundlegende Therapieprinzipien",
+"tocnametree":"Grundlegende Therapieprinzipien",
+"htmlpage":"DEPH576_4.4.8.1",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.8.2",
+"id":"54",
+"nametree":"Bakterielle Infektionen",
+"tocnametree":"Bakterielle Infektionen",
+"htmlpage":"DEPH576_4.4.8.2",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.8.3",
+"id":"55",
+"nametree":"Wundversorgung des diabet. Fusses",
+"tocnametree":"Wundversorgung des diabet. Fusses",
+"htmlpage":"DEPH576_4.4.8.3",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.4.8.4",
+"id":"56",
+"nametree":"Wundheilung und Verbandsstoffe",
+"tocnametree":"Wundheilung und Verbandsstoffe",
+"htmlpage":"DEPH576_4.4.8.4",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.5.0.0",
+"id":"57",
+"nametree":"Diabetische Retinopathie und Makulopathie",
+"tocnametree":"Diabetische Retinopathie und Makulopathie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.5.1.0",
+"id":"58",
+"nametree":"Risikofaktoren und Diagnostik",
+"tocnametree":"Risikofaktoren und Diagnostik",
+"htmlpage":"DEPH576_4.5.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.5.2.0",
+"id":"59",
+"nametree":"Therapie",
+"tocnametree":"Therapie",
+"htmlpage":"DEPH576_4.5.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.0.0",
+"id":"60",
+"nametree":"Diabetische Nephropathie",
+"tocnametree":"Diabetische Nephropathie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.1.0",
+"id":"61",
+"nametree":"Merkmale der diabet. Nephropathie",
+"tocnametree":"Merkmale der diabet. Nephropathie",
+"htmlpage":"DEPH576_4.6.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.2.0",
+"id":"62",
+"nametree":"Screening und Diagnostik",
+"tocnametree":"Screening und Diagnostik",
+"htmlpage":"DEPH576_4.6.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.3.0",
+"id":"63",
+"nametree":"Stadieneinteilung",
+"tocnametree":"Stadieneinteilung",
+"htmlpage":"DEPH576_4.6.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.4.0",
+"id":"64",
+"nametree":"Klinischer Verlauf",
+"tocnametree":"Klinischer Verlauf",
+"htmlpage":"DEPH576_4.6.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"4.6.5.0",
+"id":"65",
+"nametree":"Therapie",
+"tocnametree":"Therapie",
+"htmlpage":"DEPH576_4.6.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.0.0.0",
+"id":"66",
+"nametree":"Komorbiditäten",
+"tocnametree":"Komorbiditäten",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.1.0.0",
+"id":"67",
+"nametree":"Allgemein",
+"tocnametree":"Allgemein",
+"htmlpage":"DEPH576_5.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.2.0.0",
+"id":"68",
+"nametree":"Leberfunktionsstörung",
+"tocnametree":"Leberfunktionsstörung",
+"htmlpage":"DEPH576_5.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.3.0.0",
+"id":"69",
+"nametree":"Thrombozyten-Überfunktion",
+"tocnametree":"Thrombozyten-Überfunktion",
+"htmlpage":"DEPH576_5.3.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.4.0.0",
+"id":"70",
+"nametree":"Hypertonie",
+"tocnametree":"Hypertonie",
+"htmlpage":"DEPH576_5.4.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.5.0.0",
+"id":"71",
+"nametree":"Dyslipoproteinämie",
+"tocnametree":"Dyslipoproteinämie",
+"htmlpage":"DEPH576_5.5.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.6.0.0",
+"id":"72",
+"nametree":"Nikotinabusus",
+"tocnametree":"Nikotinabusus",
+"htmlpage":"DEPH576_5.6.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.7.0.0",
+"id":"73",
+"nametree":"Adipositas",
+"tocnametree":"Adipositas",
+"htmlpage":"DEPH576_5.7.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"5.8.0.0",
+"id":"74",
+"nametree":"Das metabolische Syndrom",
+"tocnametree":"Das metabolische Syndrom",
+"htmlpage":"DEPH576_5.8.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.0.0.0",
+"id":"75",
+"nametree":"Therapie des Typ-1-DM",
+"tocnametree":"Therapie des Typ-1-DM",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.1.0.0",
+"id":"76",
+"nametree":"Therapieziel",
+"tocnametree":"Therapieziel",
+"htmlpage":"DEPH576_6.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.2.0.0",
+"id":"77",
+"nametree":"Insulintherapie",
+"tocnametree":"Insulintherapie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.2.1.0",
+"id":"78",
+"nametree":"Grundsätzliches",
+"tocnametree":"Grundsätzliches",
+"htmlpage":"DEPH576_6.2.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.2.2.0",
+"id":"79",
+"nametree":"Grundversorgung, Mahlzeiten",
+"tocnametree":"Grundversorgung, Abdeckung der Mahlzeiten",
+"htmlpage":"DEPH576_6.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.2.3.0",
+"id":"80",
+"nametree":"Insuline",
+"tocnametree":"Insuline",
+"htmlpage":"DEPH576_6.2.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.0.0",
+"id":"81",
+"nametree":"Therapieformen",
+"tocnametree":"Therapieformen",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.0",
+"id":"82",
+"nametree":"Intensivierte konventionelle Insulintherapie",
+"tocnametree":"Intensivierte konventionelle Insulintherapie",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.1",
+"id":"83",
+"nametree":"Grundlagen",
+"tocnametree":"Grundlagen",
+"htmlpage":"DEPH576_6.3.1.1",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.2",
+"id":"84",
+"nametree":"Bolusgabe",
+"tocnametree":"Bolusgabe",
+"htmlpage":"DEPH576_6.3.1.2",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.3",
+"id":"85",
+"nametree":"Verzögerungsinsulin-Dosis",
+"tocnametree":"Verzögerungsinsulin-Dosis",
+"htmlpage":"DEPH576_6.3.1.3",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.4",
+"id":"86",
+"nametree":"Korrektur zu hoher Werte",
+"tocnametree":"Korrektur zu hoher Werte",
+"htmlpage":"DEPH576_6.3.1.4",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.1.5",
+"id":"87",
+"nametree":"Krankenhausaufenthalt bei Typ-1-DM",
+"tocnametree":"Krankenhausaufenthalt bei Typ-1-DM",
+"htmlpage":"DEPH576_6.3.1.5",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"6.3.2.0",
+"id":"88",
+"nametree":"Insulinpumpe",
+"tocnametree":"Insulinpumpe",
+"htmlpage":"DEPH576_6.3.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.0.0.0",
+"id":"89",
+"nametree":"Therapie des Typ-2-DM",
+"tocnametree":"Therapie des Typ-2-DM",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.1.0.0",
+"id":"90",
+"nametree":"Therapieziele",
+"tocnametree":"Therapieziele",
+"htmlpage":"DEPH576_7.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.2.0.0",
+"id":"91",
+"nametree":"Stufentherapie",
+"tocnametree":"Stufentherapie",
+"htmlpage":"DEPH576_7.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.3.0.0",
+"id":"92",
+"nametree":"OAD, s.c. applizierbare Antidiabetika",
+"tocnametree":"OAD, s.c. applizierbare Antidiabetika",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.3.1.0",
+"id":"93",
+"nametree":"Orale Antidiabetika",
+"tocnametree":"Orale Antidiabetika",
+"htmlpage":"DEPH576_7.3.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.3.2.0",
+"id":"94",
+"nametree":"Subkutan applizierbare Antidiabetika",
+"tocnametree":"Subkutan applizierbare Antidiabetika",
+"htmlpage":"DEPH576_7.3.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.3.3.0",
+"id":"95",
+"nametree":"Auswahl des Antidiabetikums",
+"tocnametree":"Auswahl des Antidiabetikums",
+"htmlpage":"DEPH576_7.3.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.4.0.0",
+"id":"96",
+"nametree":"Therapiemöglichkeiten mit Insulin",
+"tocnametree":"Therapiemöglichkeiten mit Insulin",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.4.1.0",
+"id":"97",
+"nametree":"Verzögerungsinsulin mit OAD (BOT)",
+"tocnametree":"Verzögerungsinsulin mit OAD (BOT)",
+"htmlpage":"DEPH576_7.4.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.4.2.0",
+"id":"98",
+"nametree":"Supplementäre Insulintherapie (SIT)",
+"tocnametree":"Supplementäre Insulintherapie (SIT)",
+"htmlpage":"DEPH576_7.4.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.4.3.0",
+"id":"99",
+"nametree":"Intensivierte Insulintherapie (ICT)",
+"tocnametree":"Intensivierte Insulintherapie (ICT)",
+"htmlpage":"DEPH576_7.4.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"7.4.4.0",
+"id":"100",
+"nametree":"Konventionelle Insulintherapie (CT)",
+"tocnametree":"Konventionelle Insulintherapie (CT)",
+"htmlpage":"DEPH576_7.4.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.0.0.0",
+"id":"101",
+"nametree":"Diabetische Sonderformen",
+"tocnametree":"Diabetische Sonderformen",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.1.0.0",
+"id":"102",
+"nametree":"Pankreopriver DM",
+"tocnametree":"Pankreopriver DM",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.1.1.0",
+"id":"103",
+"nametree":"Ursachen",
+"tocnametree":"Ursachen",
+"htmlpage":"DEPH576_8.1.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.1.2.0",
+"id":"104",
+"nametree":"Diagnostik",
+"tocnametree":"Diagnostik",
+"htmlpage":"DEPH576_8.1.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.1.3.0",
+"id":"105",
+"nametree":"Therapie, herapeutische Probleme",
+"tocnametree":"Therapie, herapeutische Probleme",
+"htmlpage":"DEPH576_8.1.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"8.2.0.0",
+"id":"106",
+"nametree":"Steroidinduzierter DM",
+"tocnametree":"Steroidinduzierter DM",
+"htmlpage":"DEPH576_8.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.0.0.0",
+"id":"107",
+"nametree":"Gestationsdiabetes",
+"tocnametree":"Gestationsdiabetes",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.1.0.0",
+"id":"108",
+"nametree":"Definition, Häufigkeit und Risiken",
+"tocnametree":"Definition, Häufigkeit und Risiken",
+"htmlpage":"DEPH576_9.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.2.0.0",
+"id":"109",
+"nametree":"Gestationsdiabetes - Diagnose",
+"tocnametree":"Gestationsdiabetes - Diagnose",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.2.1.0",
+"id":"110",
+"nametree":"Diagnosealgorithmus u. Differentialdiagnosen",
+"tocnametree":"Diagnosealgorithmus u. Differentialdiagnosen",
+"htmlpage":"DEPH576_9.2.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.2.2.0",
+"id":"111",
+"nametree":"Diagnostische Eingrenzung",
+"tocnametree":"Diagnostische Eingrenzung",
+"htmlpage":"DEPH576_9.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.3.0.0",
+"id":"112",
+"nametree":"Sonografische Kontrollen",
+"tocnametree":"Sonografische Kontrollen",
+"htmlpage":"DEPH576_9.3.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.4.0.0",
+"id":"113",
+"nametree":"Ernährung",
+"tocnametree":"Ernährung",
+"htmlpage":"DEPH576_9.4.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.5.0.0",
+"id":"114",
+"nametree":"Prä-, peri- und postnatale Phase",
+"tocnametree":"Prä-, peri- und postnatale Phase",
+"htmlpage":"DEPH576_9.5.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.6.0.0",
+"id":"115",
+"nametree":"Folgen und Begleiterscheinungen",
+"tocnametree":"Folgen und Begleiterscheinungen",
+"htmlpage":"DEPH576_9.6.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.7.0.0",
+"id":"116",
+"nametree":"Therapie Gestationsdiabetes",
+"tocnametree":"Therapie Gestationsdiabetes",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.7.1.0",
+"id":"117",
+"nametree":"Blutglukosezielwerte",
+"tocnametree":"Blutglukosezielwerte",
+"htmlpage":"DEPH576_9.7.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.7.2.0",
+"id":"118",
+"nametree":"Modifiziertes Zielwertekonzept",
+"tocnametree":"Modifiziertes Zielwertekonzept",
+"htmlpage":"DEPH576_9.7.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.7.3.0",
+"id":"119",
+"nametree":"Häufigkeit der Blutglukosekontrollen",
+"tocnametree":"Häufigkeit der Blutglukosekontrollen",
+"htmlpage":"DEPH576_9.7.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.7.4.0",
+"id":"120",
+"nametree":"Sport und Bewegung",
+"tocnametree":"Sport und Bewegung",
+"htmlpage":"DEPH576_9.7.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.8.0.0",
+"id":"121",
+"nametree":"Ultraschall – fetaler Abdominalumfang (AU)",
+"tocnametree":"Ultraschall – fetaler Abdominalumfang (AU)",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.8.1.0",
+"id":"122",
+"nametree":"Qualitätskriterien",
+"tocnametree":"Qualitätskriterien",
+"htmlpage":"DEPH576_9.8.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.8.2.0",
+"id":"123",
+"nametree":"Nomogramme",
+"tocnametree":"Nomogramme",
+"htmlpage":"DEPH576_9.8.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"9.9.0.0",
+"id":"124",
+"nametree":"Nachsorge",
+"tocnametree":"Nachsorge",
+"htmlpage":"DEPH576_9.9.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.0.0.0",
+"id":"125",
+"nametree":"Therapie bei veränderten Lebensumständen",
+"tocnametree":"Therapie bei veränderten Lebensumständen",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.1.0.0",
+"id":"126",
+"nametree":"Schwangerschaft und Diabetes",
+"tocnametree":"Schwangerschaft und Diabetes",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.1.1.0",
+"id":"127",
+"nametree":"Besonderheiten in der Schwangerschaft",
+"tocnametree":"Besonderheiten in der Schwangerschaft",
+"htmlpage":"DEPH576_10.1.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.1.2.0",
+"id":"128",
+"nametree":"Vorgehen bei vorher bekanntem Diabetes",
+"tocnametree":"Vorgehen bei vorher bekanntem Diabetes",
+"htmlpage":"DEPH576_10.1.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.0.0",
+"id":"129",
+"nametree":"Sport",
+"tocnametree":"Sport",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.1.0",
+"id":"130",
+"nametree":"Allgemein",
+"tocnametree":"Allgemein",
+"htmlpage":"DEPH576_10.2.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.2.0",
+"id":"131",
+"nametree":"Gesundheitliche Voraussetzungen",
+"tocnametree":"Gesundheitliche Voraussetzungen",
+"htmlpage":"DEPH576_10.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.3.0",
+"id":"132",
+"nametree":"Typ-1-DM",
+"tocnametree":"Typ-1-DM",
+"htmlpage":"DEPH576_10.2.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.4.0",
+"id":"133",
+"nametree":"Typ-2-DM",
+"tocnametree":"Typ-2-DM",
+"htmlpage":"DEPH576_10.2.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.5.0",
+"id":"134",
+"nametree":"Infektion/Fieber",
+"tocnametree":"Infektion/Fieber",
+"htmlpage":"DEPH576_10.2.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"10.2.6.0",
+"id":"135",
+"nametree":"Stresshyperglykämie",
+"tocnametree":"Stresshyperglykämie",
+"htmlpage":"DEPH576_10.2.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.0.0.0",
+"id":"136",
+"nametree":"Medikamente",
+"tocnametree":"Medikamente",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.0.0",
+"id":"137",
+"nametree":"Antidiabetika",
+"tocnametree":"Antidiabetika",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.1.0",
+"id":"138",
+"nametree":"Sulfonylharnstoffe",
+"tocnametree":"Sulfonylharnstoffe",
+"htmlpage":"DEPH576_11.1.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.2.0",
+"id":"139",
+"nametree":"Glinide",
+"tocnametree":"Glinide",
+"htmlpage":"DEPH576_11.1.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.3.0",
+"id":"140",
+"nametree":"Biguanid",
+"tocnametree":"Biguanid",
+"htmlpage":"DEPH576_11.1.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.4.0",
+"id":"141",
+"nametree":"Alpha-Glukosidase-Inhibitoren",
+"tocnametree":"Alpha-Glukosidase-Inhibitoren",
+"htmlpage":"DEPH576_11.1.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.5.0",
+"id":"142",
+"nametree":"GLP-1-Rezeptoragonisten",
+"tocnametree":"GLP-1-Rezeptoragonisten",
+"htmlpage":"DEPH576_11.1.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.6.0",
+"id":"143",
+"nametree":"DPP-4-Inhibitoren und Kombinationen",
+"tocnametree":"DPP-4-Inhibitoren und Kombinationen",
+"htmlpage":"DEPH576_11.1.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.7.0",
+"id":"144",
+"nametree":"SGLT2-Inhibitoren und Kombinationen",
+"tocnametree":"SGLT2-Inhibitoren und Kombinationen",
+"htmlpage":"DEPH576_11.1.7.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.8.0",
+"id":"145",
+"nametree":"Glitazon und Kombinationen",
+"tocnametree":"Glitazon und Kombinationen",
+"htmlpage":"DEPH576_11.1.8.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.9.0",
+"id":"146",
+"nametree":"Insuline/Insulinanaloga – Übersicht",
+"tocnametree":"Insuline/Insulinanaloga – Übersicht",
+"htmlpage":"DEPH576_11.1.9.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.10.0",
+"id":"147",
+"nametree":"Sehr kurz wirksame Insulinanaloga",
+"tocnametree":"Sehr kurz wirksame Insulinanaloga",
+"htmlpage":"DEPH576_11.1.10.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.11.0",
+"id":"148",
+"nametree":"Kurz wirksame Insuline (Normalinsulin)",
+"tocnametree":"Kurz wirksame Insuline (Normalinsulin)",
+"htmlpage":"DEPH576_11.1.11.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.12.0",
+"id":"149",
+"nametree":"Mittellang wirksame Insuline",
+"tocnametree":"Mittellang wirksame Insuline",
+"htmlpage":"DEPH576_11.1.12.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.13.0",
+"id":"150",
+"nametree":"Lang und sehr lang wirksame Insulinanaloga",
+"tocnametree":"Lang und sehr lang wirksame Insulinanaloga",
+"htmlpage":"DEPH576_11.1.13.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.14.0",
+"id":"151",
+"nametree":"Insulin-Kombinationen",
+"tocnametree":"Insulin-Kombinationen",
+"htmlpage":"DEPH576_11.1.14.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.15.0",
+"id":"152",
+"nametree":"Fertigpens",
+"tocnametree":"Fertigpens",
+"htmlpage":"DEPH576_11.1.15.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.1.16.0",
+"id":"153",
+"nametree":"Wiederbefüllbare Pens",
+"tocnametree":"Wiederbefüllbare Pens",
+"htmlpage":"DEPH576_11.1.16.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.2.0.0",
+"id":"154",
+"nametree":"Antihypoglykämika",
+"tocnametree":"Antihypoglykämika",
+"htmlpage":"DEPH576_11.2.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.0.0",
+"id":"155",
+"nametree":"Lipidsenker",
+"tocnametree":"Lipidsenker",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.1.0",
+"id":"156",
+"nametree":"Therapieziel",
+"tocnametree":"Therapieziel",
+"htmlpage":"DEPH576_11.3.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.2.0",
+"id":"157",
+"nametree":"Fibrate",
+"tocnametree":"Fibrate",
+"htmlpage":"DEPH576_11.3.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.3.0",
+"id":"158",
+"nametree":"Statine (CSE-Hemmer)",
+"tocnametree":"Statine (CSE-Hemmer)",
+"htmlpage":"DEPH576_11.3.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.4.0",
+"id":"159",
+"nametree":"Fibrat-Statin-Kombination",
+"tocnametree":"Fibrat-Statin-Kombination",
+"htmlpage":"DEPH576_11.3.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.5.0",
+"id":"160",
+"nametree":"Gallensäuren-Komplexbildner",
+"tocnametree":"Gallensäuren-Komplexbildner",
+"htmlpage":"DEPH576_11.3.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.3.6.0",
+"id":"161",
+"nametree":"Cholesterin-Resorptionshemmstoffe",
+"tocnametree":"Cholesterin-Resorptionshemmstoffe",
+"htmlpage":"DEPH576_11.3.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.0.0",
+"id":"162",
+"nametree":"Antihypertensiva",
+"tocnametree":"Antihypertensiva",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.1.0",
+"id":"163",
+"nametree":"ACE-Hemmer",
+"tocnametree":"ACE-Hemmer",
+"htmlpage":"DEPH576_11.4.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.2.0",
+"id":"164",
+"nametree":"Angiotensin-II-Blocker (Sartane)",
+"tocnametree":"Angiotensin-II-Blocker (Sartane)",
+"htmlpage":"DEPH576_11.4.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.3.0",
+"id":"165",
+"nametree":"Betablocker",
+"tocnametree":"Betablocker",
+"htmlpage":"DEPH576_11.4.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.4.0",
+"id":"166",
+"nametree":"Direkte Renininhibitoren",
+"tocnametree":"Direkte Renininhibitoren",
+"htmlpage":"DEPH576_11.4.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.5.0",
+"id":"167",
+"nametree":"Kalziumantagonisten (Non-Dihydropyridine)",
+"tocnametree":"Kalziumantagonisten (Non-Dihydropyridine)",
+"htmlpage":"DEPH576_11.4.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.6.0",
+"id":"168",
+"nametree":"Kalziumantagonisten (Dihydropyridine)",
+"tocnametree":"Kalziumantagonisten (Dihydropyridine)",
+"htmlpage":"DEPH576_11.4.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.7.0",
+"id":"169",
+"nametree":"Zentrale Alpha-2-Rezeptoragonisten",
+"tocnametree":"Zentrale Alpha-2-Rezeptoragonisten",
+"htmlpage":"DEPH576_11.4.7.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.8.0",
+"id":"170",
+"nametree":"Alphablocker",
+"tocnametree":"Alphablocker",
+"htmlpage":"DEPH576_11.4.8.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.9.0",
+"id":"171",
+"nametree":"Direkte Vasodilatatoren",
+"tocnametree":"Direkte Vasodilatatoren",
+"htmlpage":"DEPH576_11.4.9.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.10.0",
+"id":"172",
+"nametree":"ACE-Hemmer + Diuretikum",
+"tocnametree":"ACE-Hemmer + Diuretikum",
+"htmlpage":"DEPH576_11.4.10.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.11.0",
+"id":"173",
+"nametree":"Angiotensin-II-Blocker + Diuretikum",
+"tocnametree":"Angiotensin-II-Blocker + Diuretikum",
+"htmlpage":"DEPH576_11.4.11.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.12.0",
+"id":"174",
+"nametree":"Angiotensin-II-Blocker + Kalziumantagonist",
+"tocnametree":"Angiotensin-II-Blocker + Kalziumantagonist",
+"htmlpage":"DEPH576_11.4.12.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.13.0",
+"id":"175",
+"nametree":"Angiotensin-II-Bl. + Ca-antagonist + Diuretikum",
+"tocnametree":"Angiotensin-II-Bl. + Ca-antagonist + Diuretikum",
+"htmlpage":"DEPH576_11.4.13.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.14.0",
+"id":"176",
+"nametree":"Neprilysinhemmer + Angiotensin-II-Blocker",
+"tocnametree":"Neprilysinhemmer + Angiotensin-II-Blocker",
+"htmlpage":"DEPH576_11.4.14.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.15.0",
+"id":"177",
+"nametree":"Betablocker + Diuretikum",
+"tocnametree":"Betablocker + Diuretikum",
+"htmlpage":"DEPH576_11.4.15.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.16.0",
+"id":"178",
+"nametree":"Direkte Renininhibitoren + Diuretikum",
+"tocnametree":"Direkte Renininhibitoren + Diuretikum",
+"htmlpage":"DEPH576_11.4.16.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.17.0",
+"id":"179",
+"nametree":"Kalziumantagonisten + Diuretikum",
+"tocnametree":"Kalziumantagonisten + Diuretikum",
+"htmlpage":"DEPH576_11.4.17.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.18.0",
+"id":"180",
+"nametree":"Kalziumantagonisten + Betablocker",
+"tocnametree":"Kalziumantagonisten + Betablocker",
+"htmlpage":"DEPH576_11.4.18.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.19.0",
+"id":"181",
+"nametree":"Kalziumantagonisten + ACE-Hemmer",
+"tocnametree":"Kalziumantagonisten + ACE-Hemmer",
+"htmlpage":"DEPH576_11.4.19.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.4.20.0",
+"id":"182",
+"nametree":"Statin + ACE-Hemmer + Kalziumantagonist",
+"tocnametree":"Statin + ACE-Hemmer + Kalziumantagonist",
+"htmlpage":"DEPH576_20181204202",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.0.0",
+"id":"183",
+"nametree":"Diuretika",
+"tocnametree":"Diuretika",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.1.0",
+"id":"184",
+"nametree":"Schleifendiuretika",
+"tocnametree":"Schleifendiuretika",
+"htmlpage":"DEPH576_11.5.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.2.0",
+"id":"185",
+"nametree":"Benzothiadiazine und Analoga",
+"tocnametree":"Benzothiadiazine und Analoga",
+"htmlpage":"DEPH576_11.5.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.3.0",
+"id":"186",
+"nametree":"Kaliumsparende Diuretika",
+"tocnametree":"Kaliumsparende Diuretika",
+"htmlpage":"DEPH576_11.5.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.4.0",
+"id":"187",
+"nametree":"Aldosteronantagonisten",
+"tocnametree":"Aldosteronantagonisten",
+"htmlpage":"DEPH576_11.5.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.5.0",
+"id":"188",
+"nametree":"Osmotische Diuretika",
+"tocnametree":"Osmotische Diuretika",
+"htmlpage":"DEPH576_11.5.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.5.6.0",
+"id":"189",
+"nametree":"Diuretika-Kombinationen",
+"tocnametree":"Diuretika-Kombinationen",
+"htmlpage":"DEPH576_11.5.6.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.6.0.0",
+"id":"190",
+"nametree":"Thrombozyten-Aggregationshemmer",
+"tocnametree":"Thrombozyten-Aggregationshemmer",
+"htmlpage":"DEPH576_11.6.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"11.7.0.0",
+"id":"191",
+"nametree":"Rauchentwöhnungsmittel",
+"tocnametree":"Rauchentwöhnungsmittel",
+"htmlpage":"DEPH576_11.7.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.0.0.0",
+"id":"192",
+"nametree":"DRG-Kodierung (ICD, OPS)",
+"tocnametree":"DRG-Kodierung (ICD, OPS)",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.1.0.0",
+"id":"193",
+"nametree":"Diabetes mellitus als Nebendiagnose",
+"tocnametree":"Diabetes mellitus als Nebendiagnose",
+"htmlpage":"DEPH576_12.1.0.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.0.0",
+"id":"194",
+"nametree":"Diabetes mellitus als Hauptdiagnose",
+"tocnametree":"Diabetes mellitus als Hauptdiagnose",
+"htmlpage":"null",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.1.0",
+"id":"195",
+"nametree":"Benutzung der vierten Stellen",
+"tocnametree":"Benutzung der vierten Stellen",
+"htmlpage":"DEPH576_12.2.1.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.2.0",
+"id":"196",
+"nametree":"Nebendiagnosen bei HD Diabetes mellitus",
+"tocnametree":"Nebendiagnosen bei HD Diabetes mellitus",
+"htmlpage":"DEPH576_12.2.2.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.3.0",
+"id":"197",
+"nametree":"Diabetes mellitus als Hauptdiagnose",
+"tocnametree":"Diabetes mellitus als Hauptdiagnose",
+"htmlpage":"DEPH576_12.2.3.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.4.0",
+"id":"198",
+"nametree":"Kodierung des diab. Fußsyndroms",
+"tocnametree":"Codierung des diab. Fußsyndroms",
+"htmlpage":"DEPH576_12.2.4.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"12.2.5.0",
+"id":"199",
+"nametree":"DRG-relevante Fuß-Nebendiagnosen",
+"tocnametree":"DRG-relevante Fuß-Nebendiagnosen",
+"htmlpage":"DEPH576_12.2.5.0",
+"haspdf":false,
+"emailContent":false
+},
+{
+"numtree":"13.0.0.0",
+"id":"200",
+"nametree":"Liste der Abkürzungen",
+"tocnametree":"Liste der Abkürzungen",
+"htmlpage":"DEPH576_13.0.0.0",
+"haspdf":false,
+"emailContent":false
+}
+]
+}

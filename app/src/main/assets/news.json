@@ -1,0 +1,54 @@
+{
+  "All_News": [
+    {
+      "id": "11",
+      "date": "20190603000000",
+      "header": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "type": "NEWS",
+      "video_download_link": "",
+      "video_icon_link": "",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus felis ante, molestie sed tempus ut, pretium quis sapien. Donec quis arcu tempus, faucibus massa ut, pellentesque ligula. Etiam ac fermentum nisl. Nam id ornare arcu. Praesent quis consequat nisi. Donec ullamcorper feugiat luctus. Donec ac ligula ipsum. Vivamus sagittis feugiat massa. Praesent ut interdum lorem. In finibus consequat mauris, nec scelerisque sapien malesuada ac. Aenean justo elit, suscipit ac neque sit amet, maximus dictum est.</p>",
+      "end_date": "20190603000000"
+    },
+    {
+      "id": "12",
+      "date": "20190603000000",
+      "header": "Vestibulum vulputate nunc eu neque imperdiet finibus.",
+      "type": "NEWS",
+      "video_download_link": "",
+      "video_icon_link": "",
+      "content": "<p>Duis rutrum ut nibh hendrerit pulvinar. Curabitur at massa tincidunt, pharetra massa vitae, ullamcorper velit. Sed auctor tortor nec semper dapibus. Nullam sodales ut tortor quis tincidunt. Vivamus ac nunc molestie, consequat mauris vitae, faucibus lacus. Praesent eu semper magna. Mauris ornare velit ut urna tincidunt, ut tempus metus lobortis. Praesent mattis lobortis magna sit amet ornare. Nullam sit amet feugiat diam. Nam consectetur luctus orci, in commodo elit egestas vel. Mauris convallis, nisl non dapibus rhoncus, velit turpis posuere nisl, nec efficitur lacus dui et leo. Morbi hendrerit justo eu porttitor placerat. Nam feugiat tortor quis ultricies aliquam.</p>",
+      "end_date": "20190603000000"
+    },
+    {
+      "id": "13",
+      "date": "20190603000000",
+      "header": "In ornare turpis in libero mollis, at condimentum mi tempor.",
+      "type": "NEWS",
+      "video_download_link": "",
+      "video_icon_link": "",
+      "content": "<p>Etiam in est neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean eu mi diam. Donec ornare, ligula vel bibendum porta, purus ex consectetur sem, nec convallis ligula velit eu tellus. Sed sit amet tempus turpis. Nulla in sagittis orci. Curabitur eget tempus arcu. Phasellus massa mi, posuere non tortor at, convallis maximus sem. Fusce eget suscipit lorem. Integer suscipit, justo non ullamcorper rhoncus, velit erat dapibus magna, sit amet scelerisque justo est non urna. Sed risus metus, feugiat a nibh a, dapibus euismod dui.</p>",
+      "end_date": "20190603000000"
+    },
+    {
+      "id": "14",
+      "date": "20190603000000",
+      "header": "Donec id nibh id orci fermentum cursus.",
+      "type": "NEWS",
+      "video_download_link": "",
+      "video_icon_link": "",
+      "content": "<p>Suspendisse posuere nisl sit amet interdum iaculis. Aenean eget efficitur ipsum. Phasellus finibus commodo odio, vel porttitor nisl scelerisque sodales. Aliquam et ipsum ac elit mollis laoreet. Sed nec mauris et nisi condimentum sodales nec ut neque. Duis eget ante metus. Morbi varius pharetra massa, ac laoreet sem sollicitudin id. Duis sit amet nisl sed dui pharetra accumsan. Mauris quis lectus a tortor ullamcorper suscipit in non urna. Sed iaculis egestas nisl finibus sollicitudin. Suspendisse potenti. Suspendisse aliquet lacinia gravida. Donec viverra urna id ex rutrum sagittis.</p>",
+      "end_date": "20190603000000"
+    },
+    {
+      "id": "15",
+      "date": "20190603000000",
+      "header": "Sed a dui eget nibh mattis tincidunt vel non est.",
+      "type": "NEWS",
+      "video_download_link": "",
+      "video_icon_link": "",
+      "content": "<p>Donec semper nisl tellus, auctor vestibulum arcu scelerisque et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nullam interdum tempus ipsum nec scelerisque. Phasellus lobortis vestibulum diam eu dictum. Sed sed ante felis. Praesent et odio tellus. Quisque non cursus nisi, non vehicula nisi. Aliquam in lectus id odio bibendum ultricies non ac dui.</p>\r\n<p>&nbsp;</p>",
+      "end_date": "20190603000000"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/detailedNews_displayActivityLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".MainActivity_DetailedNewsView">
+
+        <TextView
+            android:id="@+id/Back_Button_detailNews"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            android:paddingLeft="15dp"
+            android:paddingTop="15dp"
+            android:paddingRight="15dp"
+
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+
+            android:textAlignment="center"
+            android:text="@string/backButton_detailedNewsView"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#5391b6"/>
+
+        <TextView
+            android:id="@+id/Detailed_news_textView_Logo"
+            android:layout_toRightOf="@id/Back_Button_detailNews"
+            android:layout_toEndOf="@id/Back_Button_detailNews"
+
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            android:paddingLeft="15dp"
+            android:paddingTop="15dp"
+            android:paddingRight="15dp"
+
+            android:fontFamily="sans-serif"
+            android:text="@string/detailedNewsListAActivity_logo_detail_view"
+
+            android:textAlignment="center"
+            android:textColor="#5391b6"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <View
+            android:id="@+id/view1"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@id/Detailed_news_textView_Logo"
+            android:layout_centerHorizontal="true"
+            android:background="#000000" />
+
+        <TextView
+            android:id="@+id/Detailed_news_textView_header"
+            android:layout_below="@id/view1"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+
+            android:fontFamily="sans-serif-thin"
+            android:text="@string/detailed_news_header"
+
+            android:background="#5391b6"
+
+            android:textColor="#ffffff"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/Detailed_news_textView_Content"
+            android:layout_below="@id/Detailed_news_textView_header"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+
+            android:paddingLeft="15dp"
+            android:paddingTop="5dp"
+            android:paddingRight="15dp"
+
+            android:fontFamily="sans-serif"
+            android:textColor="#000000"
+            android:text="@string/Detailed_news_content"
+            android:textSize="18sp" />
+
+    </RelativeLayout>
+</ScrollView>
