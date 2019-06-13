@@ -5,13 +5,15 @@ import android.util.Log;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-public class newsList_DataModel {
+class newsList_DataModel {
 
-    public String newsList_header;
-    public String newsList_date;
-    public String newsList_content;
+    private String newsList_header;
+    private String newsList_date;
+    private String newsList_content;
 
-    public newsList_DataModel(JSONObject jsonObject){
+    private boolean newsItemReadStatus = false;
+
+    newsList_DataModel(JSONObject jsonObject){
 
         if (jsonObject != null){
 
@@ -30,4 +32,25 @@ public class newsList_DataModel {
 
     }
 
+    String getNewsList_header() {
+        return newsList_header;
+    }
+
+
+    String getNewsList_date() {
+        return newsList_date;
+    }
+
+
+    String getNewsList_content() {
+        return newsList_content;
+    }
+
+    boolean getNewsItemReadStatus() {
+        return newsItemReadStatus;
+    }
+
+    public void setNewsItemReadStatus(boolean newsItemReadStatus) {
+        this.newsItemReadStatus = newsItemReadStatus;
+    }
 }

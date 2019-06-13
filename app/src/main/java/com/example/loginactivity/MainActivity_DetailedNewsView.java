@@ -69,8 +69,8 @@ public class MainActivity_DetailedNewsView extends AppCompatActivity {
 //            e.printStackTrace();
 //        }
 
-        news_header.setText(displayNews.newsList_header);
-        news_content.setText(Html.fromHtml(displayNews.newsList_content));
+        news_header.setText(displayNews.getNewsList_header());
+        news_content.setText(Html.fromHtml(displayNews.getNewsList_content()));
 
         backButton.setOnClickListener(new View.OnClickListener() {
             @Override

@@ -12,7 +12,8 @@
         <activity android:name=".MainActivity_DetailedNewsView" android:theme="@style/AppTheme_5"></activity>
         <activity
             android:name=".MainActivity_news_listView"
-            android:theme="@style/AppTheme_5"/>
+            android:theme="@style/AppTheme_5"
+            android:configChanges="orientation|screenSize"/>
         <activity
             android:name=".Display4thPageActivity"
             android:theme="@style/AppTheme_4" />
